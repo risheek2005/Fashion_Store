@@ -9,6 +9,8 @@ STYLEHUB is a modern and responsive single-page e-commerce website designed to s
 🎨 **Modern UI**: Gradient categories, icons, badges, and smooth hover effects.
 🔥 **Smooth Scrolling**: Navigation links smoothly scroll to relevant sections.
 
-🤝 Contributing
+🤝 CONTRIBUTING :-
 
 Feel free to fork the repository and submit pull requests! Whether it’s improving UI, adding new features, or fixing bugs — contributions are welcome.
+
+WEBSITE LINK - fashion-store-lemon.vercel.app
